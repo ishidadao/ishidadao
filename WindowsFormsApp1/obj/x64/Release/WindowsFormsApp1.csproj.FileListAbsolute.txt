@@ -1,0 +1,16 @@
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.config
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.manifest
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.application
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.pdb
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Form1.resources
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.TrustInfo.xml
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe.manifest
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.application
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe
+C:\Users\23077\OneDrive\桌面\新建文件夹 (2)\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.pdb
