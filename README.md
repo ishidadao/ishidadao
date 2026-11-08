@@ -21,9 +21,7 @@
 
 ### 🤖 AI 编程用量
 
-<a href="https://tokens.ci/u/ishidadao">
-  <img alt="Tokens Stats for @ishidadao" src="https://tokens.ci/api/embed/ishidadao/svg?template=receipt&today=1&rank=percent&tokens=compact&cost=compact" />
-</a>
+[![Tokens Stats](https://tokens.ci/api/embed/ishidadao/svg?theme=light&color=green&graph=1&today=1&tokens=full&cost=full)](https://tokens.ci/u/ishidadao)
 
 ### 🐍 贡献动态
 
